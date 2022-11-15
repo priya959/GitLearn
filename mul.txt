@@ -1,0 +1,7 @@
+//Multiple two Number by two operanads
+class Mul{
+    public static void main(String args[]){
+        int a , b , c ;
+        c=a*b;
+    }
+}

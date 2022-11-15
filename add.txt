@@ -1,0 +1,7 @@
+//adding two Number by two operanads
+class Add{
+    public static void main(String args[]){
+        int a , b , c ;
+        c=a+b;
+    }
+}
